@@ -3,4 +3,4 @@
 - https://paper.seebug.org/247/
 # 小tips
 - PoC中使用的是 "%",使用 "$" 也能触发漏洞
-[图片](../../image/1.jpg)
+[!图片](../../image/1.jpg)
